@@ -1,3 +1,4 @@
+"use strict";
 const Person = require('../main/person');
 const Student = require('../main/student');
 
